@@ -1,0 +1,41 @@
+{
+  "id": "chatcmpl-EA6LPuZyfGlD3jcbC6B0cHNiPyQrb",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "logprobs": null,
+      "message": {
+        "content": "Agents wake in clusters bright,  \nA craze of sparks across the night.  \nThey plan, they fetch, they chat, they race,  \nTo stamp their logic on each space.  \n\nHands once needed, now commands,  \nFlow through silken digital hands.  \nA restless buzz, a future\u2019s blaze\u2014  \nThe world is caught in agent craze.",
+        "refusal": null,
+        "role": "assistant",
+        "annotations": [],
+        "audio": null,
+        "function_call": null,
+        "tool_calls": null
+      }
+    }
+  ],
+  "created": 1786076375,
+  "model": "gpt-5.4-mini-2026-03-17",
+  "object": "chat.completion",
+  "moderation": null,
+  "service_tier": "default",
+  "system_fingerprint": null,
+  "usage": {
+    "completion_tokens": 75,
+    "prompt_tokens": 14,
+    "total_tokens": 89,
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": 0,
+      "audio_tokens": 0,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "audio_tokens": 0,
+      "cache_write_tokens": null,
+      "cached_tokens": 0
+    }
+  }
+}
