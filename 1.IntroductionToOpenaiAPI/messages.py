@@ -68,7 +68,7 @@ def power_matrix(M, n):
         if n % 2 == 1:
             result = multiply_matrices(result, base)
         base = multiply_matrices(base, base)
-        n // 2
+        n //= 2
     return result
 
 def fibonacci_matrix(n):
